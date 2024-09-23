@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Sofadi+One&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 10%;
+}
+
+td {
+    border: 1px solid #dddddd;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    padding: 8px;
+}
+
+th {
+    border: 1px solid #dddddd;
+    background-color: #264687;
+    color: #FCFAEE;
+    text-align: center;
+    text-shadow: #fff9f3;
+    font-size: 30px;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(33, 109, 145);
+    color: white;
+}
+
+address {
+    margin-left: 3%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: small;
+    text-align: center;
+}
+
+iframe {
+    width: 80%;
+    height: 350px;
+    margin-left: 10%;
+}
+
+hr {
+    width: 80%;
+    margin-left: 10%;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+a:visited {
+    color: #FF0000;
+}
+
+a:link {
+    color: #00FF00;
+}
+
+a:hover {
+    color: #FF00FF;
+}
+
+a:active {
+    color: #0000FF;
+}
+
+
+#apresentacao {
+    text-align: center;
+}
+
+#menu {
+    text-align: center;
+    font-size: medium;
+    padding: 8px;
+}
+
+#endereco {
+    width: 80%;
+    margin-left: 10%;
+}
+
+.apresentacao {
+    text-align: left;
+}
+
+#center {
+    text-align: center;
+    background-color: rgb(59, 205, 215);
+}
+
+
+body {
+    background-image: linear-gradient(#c8c8c8, #57a2c5, #414474);
+}
